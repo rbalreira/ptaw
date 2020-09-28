@@ -1,0 +1,11 @@
+canvas {
+    margin-top: 30px;
+}
+
+canvas:last-child {
+    margin-bottom: 50px;
+}
+
+h5 {
+    font-size: 14px;
+}
