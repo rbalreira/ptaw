@@ -27,6 +27,7 @@ Criação de uma plataforma para gestão de clientes de um serviço que disponib
 
 # Documentação
 - [Relatório](report.pdf)
+- [Enunciado](outline.pdf)
 
 # Autores
 - Daniel Martins
