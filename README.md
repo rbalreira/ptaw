@@ -23,7 +23,7 @@ Criação de uma plataforma para gestão de clientes de um serviço que disponib
 3. Importar o ficheiro de backup da base de dados [database.sql](database.sql) para a base de dados criada no ponto 1.
 5. Alterar as credenciais de acesso do ficheiro [config.ini](app/private/config.ini) que faz conexão à base de dados
 6. Copiar a aplicação Web para um web server ([XAMPP](https://www.apachefriends.org/index.html), [Laragon](https://laragon.org/)...)
-7. Iniciar a aplicação pelo ficheiro [index.html](app/index.html)
+7. Iniciar a aplicação pelo ficheiro [index.html](app/index.php)
 
 # Documentação
 - [Relatório](report.pdf)
